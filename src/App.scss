@@ -1,0 +1,38 @@
+.bg_dark_mode {
+    background-color: #0a223a;
+}
+
+.text-grey {
+    color: rgb(136, 153, 166);
+}
+
+.class_shadow {
+    // margin: 10px;
+    border-radius: 10px;
+    // padding: 10px;
+    background: #3f51b547; 
+}
+.badge_container {
+    background: #496ba9d6;
+    border-radius: 10px;
+}
+
+.small_font {
+    font-size: 0.7rem;
+}
+
+.style_button {
+    border: 1px solid #48478c;
+    color: #666284;
+    font-variant: all-petite-caps;
+    border-radius: 0;}
+    
+
+    .ant-drawer-title {
+        color: white !important;
+        font-variant: all-petite-caps;
+        text-align: center;
+    }
+    .ant-drawer-close {
+        color: #ffffff !important;
+    }
